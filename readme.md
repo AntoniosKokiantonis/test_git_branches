@@ -1,6 +1,6 @@
 # Automation test engineer
 
-# Python SQL
+# Python - SQL
 # WebServices
 # CI- CD
 # SOAP - REST APIs
